@@ -1,0 +1,5 @@
+Job: deploy-staging
+Run ID: 13579
+[INFO] Deploying to Kubernetes...
+Warning  Failed     kubelet  Failed to pull image "gcr.io/myproj/app:latest": rpc error: code = Unknown desc = Error response from daemon
+ImagePullBackOff

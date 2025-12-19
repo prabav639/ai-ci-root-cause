@@ -1,0 +1,6 @@
+Job: linux-build
+Run ID: 12345
+[INFO] Building...
+fatal error: openssl/ssl.h: No such file or directory
+compilation terminated.
+collect2: error: ld returned 1 exit status

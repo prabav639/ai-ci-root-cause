@@ -1,0 +1,5 @@
+Job: integration-tests
+Run ID: 67890
+[INFO] Fetching dependencies...
+ERROR: Connection timed out while downloading artifact
+Temporary failure in name resolution

@@ -1,0 +1,5 @@
+Job: unit-tests
+Run ID: 24680
+[INFO] Running tests...
+FAILED test_api.py::test_create_user AssertionError: expected 201 got 500
+E   AssertionError: expected 201 got 500
